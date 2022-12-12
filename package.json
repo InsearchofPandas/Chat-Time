@@ -10,7 +10,7 @@
   "author": "Kyle Humphrey",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.25.3",
     "socket.io": "^2.3.0",
     "soket.io": "0.0.1-security"
